@@ -98,18 +98,18 @@ p{
     /* wl ends  */
     
     /* about begins */
-    .bo{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
+    .rr{
+        display: flex;
+        justify-content: space-between;
         gap: 20px;
         padding: 20px;
     }
     .ig{
-    width: 621px;
-    height: 370px;
+    width: 700px;
+    height: 600px;
     }
     .og{
-        margin-left: 22px;
+        margin-left: 20px;
         margin-bottom: 50px;
     }
     span{
@@ -131,7 +131,7 @@ p{
     .og.p{
     color: #000;
     font-family: Lato;
-    font-size: 16px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -262,7 +262,7 @@ p{
                         
                         /* abbb begins */
                         .rty1{
-                            margin-left: 150px;
+                            margin-left: 20px;
                         }
                         .kkk{
                             padding: 20px;
